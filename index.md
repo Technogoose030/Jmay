@@ -4,10 +4,10 @@ layout: default
 
 #Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.#
 
-<p><a href="www.linkedin.com/in/Jason-M-Technogoose">Linkedin</a></p>
+<a href="www.linkedin.com/in/Jason-M-Technogoose">Linkedin</a>
 [Linkedin](www.linkedin.com/in/Jason-M-Technogoose)
 
-# <ins>Goals<ins>
+## <ins>Goals<ins>
 
 My goal is to become a cybersecurity or network professional to safeguard and optimize the digital infrastructure that drives our modern world. I am passionate about understanding the complexities of network systems and the evolving landscape of cyber threats. By pursuing this career path, I aim to leverage my skills to design and implement robust security measures that protect sensitive information from malicious attacks. I am committed to continuous learning and staying ahead of technological advancements to ensure that I can effectively address emerging challenges in the field. Ultimately, I aspire to contribute to a safer, more resilient digital environment, where individuals and organizations can confidently operate without fear of cyber threats.
 
