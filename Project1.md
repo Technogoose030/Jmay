@@ -144,8 +144,6 @@ Their was alot of vulnerabilities besides XSS but for this project i focused on 
 
 Implemented server-side input validation to filter out potentially malicious input. Modified the web application code to ensure that all user inputs are validated against a whitelist of acceptable characters.
 
-Output Encoding:
-
 Applied output encoding to ensure that user input is rendered as plain text in the web application. Updated the search results display logic to escape special characters, preventing them from being interpreted as HTML or JavaScript.
 
 ## <ins>Follow-Up Actions:<ins>
