@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Project 2: 
 
-_yay_
+_yay_2
 
 [back](./)
