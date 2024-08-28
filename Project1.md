@@ -83,23 +83,23 @@ Performed targeted attacks, such as injecting malicious payloads into form field
 
 ## <ins>Session Management:<ins>
 
-Session Fixation:
+## Session Fixation:
 
 Captured session cookies using Burp Suite.
 
 Attempted to access the application with captured cookies to test if unauthorized access was possible.
 
-Session Expiry:
+## Session Expiry:
 
 Tested session timeout and logout functionality.
 
 Confirmed sessions expired after inactivity and were invalidated upon logout.
 
-Session Regeneration:
+## Session Regeneration:
 
 Checked if the application regenerated session IDs after login and sensitive actions.
 
-Findings:
+## Findings:
 
 Session Fixation: Application allowed session ID fixation.
 
@@ -107,7 +107,7 @@ Session Hijacking: Session cookies lacked Secure attributes.
 
 Session Expiry: Ineffective session timeout enforcement.
 
-Remediation:
+## Remediation:
 
 Fixed Session ID: Implemented session ID regeneration post-login.
 
@@ -115,7 +115,6 @@ Secure Cookies: Added Secure, HttpOnly, and SameSite attributes to cookies.
 
 Improved Expiry: Configured proper session timeout and validated implementation.
 
-Authorization Testing:
 
 ## <ins>Privilege Escalation:<ins>
 
@@ -159,8 +158,11 @@ Re-ran Burp Suite’s Scanner tool to ensure that the XSS vulnerability was succ
 
 Conducted manual testing using Burp Suite’s Intruder and Repeater tools to confirm that the input validation and output encoding were correctly implemented and that no XSS vulnerabilities remained.
 
-# <ins>Conclusion:<ins>
 
-This expanded explanation offers a detailed view of the technical aspects of the project, showcasing expertise in vulnerability assessment, web application security, and Active Directory integration.
+>
+>>
+>>>
+>>>>
+>>>>
 
 [Back To Main](./)
