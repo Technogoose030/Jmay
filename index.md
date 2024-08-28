@@ -12,14 +12,31 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 My goal is to become a cybersecurity or network professional to safeguard and optimize the digital infrastructure that drives our modern world. I am passionate about understanding the complexities of network systems and the evolving landscape of cyber threats. By pursuing this career path, I aim to leverage my skills to design and implement robust security measures that protect sensitive information from malicious attacks. I am committed to continuous learning and staying ahead of technological advancements to ensure that I can effectively address emerging challenges in the field. Ultimately, I aspire to contribute to a safer, more resilient digital environment, where individuals and organizations can confidently operate without fear of cyber threats.
 
+### Who am I 
+
+<dl>
+<dt>Name</dt>
+<dd>Jason M</dd>
+<dt>Alias</dt>
+<dd>Technogoose</dd>
+<dt>Born</dt>
+<dd>1993</dd>
+<dt>Birthplace</dt>
+<dd>Ont,Canada</dd>
+
+</dl>
 ## Projects 
-Project 1: Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory  [Link to Project 1](./Project1.html)
+Project 1: Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory  
+[Link to Project 1](./Project1.html)
 > Conducted a thorough vulnerability assessment on a home lab environment configured with Active Directory, using Burp Suite to identify and analyze web application vulnerabilities. Set up a virtualized lab with Active Directory and a vulnerable web application to simulate a corporate network. Employed Burp Suite’s Spider and Scanner tools to detect security issues such as SQL injection and XSS. Performed manual testing to validate findings and explored impacts on Active Directory integration. Delivered a detailed report with actionable remediation recommendations, enhancing the overall security posture of the simulated environment.
 >
 > 
 
-### Header 3
+##Project 2:
+[Link to Project 2](./Project2.html)
 
+##Project 3:
+[Link to Project 3](./Project3.html)
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -41,24 +58,7 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
@@ -74,21 +74,7 @@ end
 1.  Item three
 1.  Item four
 
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -99,18 +85,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
