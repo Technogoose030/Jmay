@@ -4,9 +4,7 @@ layout: default
 
 #Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.#
 
-[Linkedin](www.linkedin.com/in/jason-may-technogoose)
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Linkedin](www.linkedin.com/in/Jason-M-Technogoose)
 
 # Goals
 
@@ -14,15 +12,7 @@ My goal is to become a cybersecurity or network professional to safeguard and op
 
 ### Who am I 
 
-<dl>
-<dt>Name</dt>
-<dd>Jason M</dd>
-<dt>Alias</dt>
-<dd>Technogoose</dd>
-<dt>Born</dt>
-<dd>1993</dd>
-<dt>Birthplace</dt>
-<dd>Ont,Canada</dd>
+I’m a tech enthusiast with a deep passion for understanding and enhancing technology. Whether it's disassembling devices to explore their inner workings or troubleshooting and fixing technical issues, I thrive on uncovering how things function and finding innovative solutions. With Network+ and Security+ certifications under my belt, I’m committed to advancing my expertise in the field and am actively pursuing additional certifications to stay at the forefront of technology. My dedication to continuous learning and hands-on problem-solving drives me to excel in cybersecurity and networking, where I aim to make a meaningful impact.
 
 </dl>
 ## Projects 
