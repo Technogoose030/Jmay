@@ -11,10 +11,11 @@ Executed a detailed vulnerability assessment on a home lab environment configure
 # 1.Home Lab Setup:
 
 # <ins>Infrastructure Configuration:<ins>
+
 There are free trials or access at these links 
 
-Burpsuite community edition(cant web app scan with the free version unfortunately
-)
+Burpsuite community edition(cant web app scan with the free version unfortunately)
+
 https://portswigger.net/burp/releases/professional-community-2024-6-6?requestededition=community&requestedplatform=
 
 Windows Server 2022 
@@ -24,7 +25,6 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 Windows 10 Enterprise
 
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise
-
 
 ## <ins>Virtualization:<ins>
 Deployed a virtualized environment using software like VMware Workstation.
@@ -47,7 +47,7 @@ Configured the web application to interact with Active Directory for authenticat
 
 ## <ins>Installation and Setup:<ins>
 
-Installed Burp Suite Community Edition on a local machine.
+Installed Burp Suite on a local machine.
 
 Configured Burp Suite to intercept traffic by setting up a local proxy server using foxyproxy, typically running on port 8080.
 
@@ -60,8 +60,11 @@ Set up SSL certificates in Burp Suite to decrypt and inspect HTTPS traffic witho
 # <ins>3. Scanning and Testing:<ins>
 
 ## <ins>Spidering:<ins>
+
 Used Burp Suite’s Spider tool to automatically crawl the web application and map its structure, including all pages, parameters, and functionalities.
+
 Configured spidering settings to follow all links, submit forms, and handle session tokens.
+
 Vulnerability Scanning:
 
 ## <ins>Automated Scanning:<ins>
@@ -79,17 +82,53 @@ Performed targeted attacks, such as injecting malicious payloads into form field
 # <ins>4. Active Directory Integration Testing:<ins>
 
 ## <ins>Session Management:<ins>
-Tested for session fixation and session hijacking vulnerabilities by manipulating cookies and session tokens.
-Verified that sensitive data and session tokens were adequately protected and validated by the web application and Active Directory.
+
+Session Fixation:
+
+Captured session cookies using Burp Suite.
+
+Attempted to access the application with captured cookies to test if unauthorized access was possible.
+
+Session Expiry:
+
+Tested session timeout and logout functionality.
+
+Confirmed sessions expired after inactivity and were invalidated upon logout.
+
+Session Regeneration:
+
+Checked if the application regenerated session IDs after login and sensitive actions.
+
+Findings:
+
+Session Fixation: Application allowed session ID fixation.
+
+Session Hijacking: Session cookies lacked Secure attributes.
+
+Session Expiry: Ineffective session timeout enforcement.
+
+Remediation:
+
+Fixed Session ID: Implemented session ID regeneration post-login.
+
+Secure Cookies: Added Secure, HttpOnly, and SameSite attributes to cookies.
+
+Improved Expiry: Configured proper session timeout and validated implementation.
+
 Authorization Testing:
 
 ## <ins>Privilege Escalation:<ins>
+
 Checked for privilege escalation opportunities by exploiting vulnerabilities in the web application that might allow unauthorized access to AD resources or functions.
+
 Attempted to bypass access controls and view or modify sensitive data in AD based on application flaws.
+
 ## <ins>Injection Attacks:<ins>
 
 ## <ins>LDAP Injection:<ins>
+
 Tested for LDAP injection vulnerabilities by injecting payloads into search parameters and login forms.
+
 Evaluated the impact on Active Directory, such as unauthorized access or directory enumeration.
 
 # <ins>5.Reporting and Remediation:<ins>
@@ -99,6 +138,7 @@ Evaluated the impact on Active Directory, such as unauthorized access or directo
 ## <ins>Vulnerability Identification:<ins>
 
 The vulnerability assessment successfully identified and remediated a critical XSS vulnerability within the home lab environment.
+
 Their was alot of vulnerabilities besides XSS but for this project i focused on XSS 
 
 ## <ins>Remediation Recommendations:<ins>
