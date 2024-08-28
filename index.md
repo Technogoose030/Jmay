@@ -19,19 +19,19 @@ I’m a tech enthusiast with a deep passion for understanding and enhancing tech
 ## <ins>Projects<ins>
 ### <ins>Project 1: Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory<ins>  
 >
->[Link to Project 1](./Project1.html)
+>[Project 1](./Project1.html)
 >
 > Conducted a thorough vulnerability assessment on a home lab environment configured with Active Directory, using Burp Suite to identify and analyze web application vulnerabilities. Set up a virtualized lab with Active Directory and a vulnerable web application to simulate a corporate network. Employed Burp Suite’s Spider and Scanner tools to detect security issues such as SQL injection and XSS. Performed manual testing to validate findings and explored impacts on Active Directory integration. Delivered a detailed report with actionable remediation recommendations, enhancing the overall security posture of the simulated environment.
 
 
 ### <ins>Project 2:<ins>
 >
->[Link to Project 2](./Project2.html)
+>[Project 2](./Project2.html)
 >
 
 ### <ins>Project 3:<ins>
 >
->[Link to Project 3](./Project3.html)
+>[Project 3](./Project3.html)
 >
 
 
