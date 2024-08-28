@@ -4,8 +4,6 @@ layout: default
 
 #Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.#
 
-<a href="www.linkedin.com/in/Jason-M-Technogoose">Linkedin</a>
-[Linkedin](www.linkedin.com/in/Jason-M-Technogoose)
 
 ## <ins>Goals<ins>
 
@@ -13,7 +11,7 @@ My goal is to become a cybersecurity or network professional to safeguard and op
 
 ## <ins>Who am I<ins> 
 
-I’m a tech enthusiast with a deep passion for understanding and enhancing technology. Whether it's disassembling devices to explore their inner workings or troubleshooting and fixing technical issues, I thrive on uncovering how things function and finding innovative solutions. With Network+ and Security+ certifications under my belt, I’m committed to advancing my expertise in the field and am actively pursuing additional certifications to stay at the forefront of technology. My dedication to continuous learning and hands-on problem-solving drives me to excel in cybersecurity and networking, where I aim to make a meaningful impact.
+Hi im Jason a tech enthusiast with a deep passion for understanding and enhancing technology. Whether it's disassembling devices to explore their inner workings or troubleshooting and fixing technical issues, I thrive on uncovering how things function and finding innovative solutions. With Network+ and Security+ certifications under my belt, I’m committed to advancing my expertise in the field and am actively pursuing additional certifications to stay at the forefront of technology. My dedication to continuous learning and hands-on problem-solving drives me to excel in cybersecurity and networking, where I aim to make a meaningful impact.
 
 
 ## <ins>Projects<ins>
