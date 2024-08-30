@@ -5,7 +5,7 @@ layout: default
 ## Project 1: Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory
 
 Executed a detailed vulnerability assessment on a home lab environment configured with Active Directory to simulate a corporate network. The project utilized Burp Suite to identify and analyze web application vulnerabilities and their implications for the integrated Active Directory setup.
-
+<!-- Never -->
 # 1.Home Lab Setup:
 
 # <ins>Infrastructure Configuration:<ins>
