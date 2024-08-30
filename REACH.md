@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# YOU HAVE COMPLETED THE CTF YOUR AWESOME 
+# YOU HAVE REACHED THE END OF THE CTF YOUR AWESOME 
 ## Halo 3 Never Forget <a href="https://www.youtube.com/watch?v=JX5O3n9K_d0">Song</a>
 ### If you want the code for hiding your own text in files using stegonography then use this script with proper dependancies , This is a combined script so it encodes and decodes, never save your passwords in plaintext again instead encrypt it or better yet hide it in an image file 
 ```
