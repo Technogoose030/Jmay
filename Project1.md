@@ -4,8 +4,6 @@ layout: default
 
 ## Project 1: Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory
 
-Project 1: Comprehensive Vulnerability Assessment Using Burp Suite on a Home Lab with Active Directory
-
 Executed a detailed vulnerability assessment on a home lab environment configured with Active Directory to simulate a corporate network. The project utilized Burp Suite to identify and analyze web application vulnerabilities and their implications for the integrated Active Directory setup.
 
 # 1.Home Lab Setup:
@@ -63,9 +61,7 @@ Set up SSL certificates in Burp Suite to decrypt and inspect HTTPS traffic witho
 
 Used Burp Suite’s Spider tool to automatically crawl the web application and map its structure, including all pages, parameters, and functionalities.
 
-Configured spidering settings to follow all links, submit forms, and handle session tokens.
-
-Vulnerability Scanning:
+Configured spidering settings to follow all links, submit forms, and handle session tokens
 
 ## <ins>Automated Scanning:<ins>
 
@@ -85,15 +81,11 @@ Performed targeted attacks, such as injecting malicious payloads into form field
 
 ## Session Fixation:
 
-Captured session cookies using Burp Suite.
-
-Attempted to access the application with captured cookies to test if unauthorized access was possible.
+Captured session cookies using Burp Suite.Attempted to access the application with captured cookies to test if unauthorized access was possible.
 
 ## Session Expiry:
 
-Tested session timeout and logout functionality.
-
-Confirmed sessions expired after inactivity and were invalidated upon logout.
+Tested session timeout and logout functionality.Confirmed sessions expired after inactivity and were invalidated upon logout.
 
 ## Session Regeneration:
 
@@ -136,9 +128,9 @@ Evaluated the impact on Active Directory, such as unauthorized access or directo
 
 ## <ins>Vulnerability Identification:<ins>
 
-The vulnerability assessment successfully identified and remediated a critical XSS vulnerability within the home lab environment.
+The vulnerability assessment successfully identified and remediated a critical XSS vulnerability and some session id problems like fixation, hijacking and session expiry within the home lab environment.
 
-Their was alot of vulnerabilities besides XSS but for this project i focused on XSS 
+Their was alot of vulnerabilities not listed that would still have to be looked at assessed and remediated  
 
 ## <ins>Remediation Recommendations:<ins>
 
@@ -151,7 +143,6 @@ Applied output encoding to ensure that user input is rendered as plain text in t
 ## <ins>Verification:<ins>
 
 Conducted follow-up testing to ensure that all identified vulnerabilities were remediated effectively.
-
 Re-ran Burp Suite’s Scanner tool to ensure that the XSS vulnerability was successfully mitigated.
 
 Conducted manual testing using Burp Suite’s Intruder and Repeater tools to confirm that the input validation and output encoding were correctly implemented and that no XSS vulnerabilities remained.
