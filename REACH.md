@@ -95,7 +95,7 @@ def decode_message(image_path):
 # Example usage
 if __name__ == "__main__":
     # Set your image paths and messages here
-    input_image = "exifordecode.png"  # Replace with your input image file
+    input_image = "input_image.png"  # Replace with your input image file
     output_image = "output_image.png"  # Replace with your output image file
     secret_message = "Hello, this is a secret message congrats.. REACH the right sub domain now !"
 
