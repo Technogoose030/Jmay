@@ -35,6 +35,9 @@ Hi im Jason a tech enthusiast with a deep passion for understanding and enhancin
 >
 >[Project 3](./Project3.html)
 
+# <ins>For CTF fun Check the source :P<ins>
+<!-- Okay so here we go on each page there will be a word commented out find them and visit the sub domain -->
+
 >
 >>
 >>>
