@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Project 2: 
-
+<!--Forget-->
 
 ```js
 // Javascript code with syntax highlighting.
