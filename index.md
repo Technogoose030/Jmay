@@ -28,10 +28,11 @@ Hi im Jason a tech enthusiast with a deep passion for understanding and enhancin
 > Conducted a thorough vulnerability assessment on a home lab environment configured with Active Directory, using Burp Suite to identify and analyze web application vulnerabilities. Set up a virtualized lab with Active Directory and a vulnerable web application to simulate a corporate network. Employed Burp Suite’s Spider and Scanner tools to detect security issues such as SQL injection and XSS. Performed manual testing to validate findings and explored impacts on Active Directory integration. Delivered a detailed report with actionable remediation recommendations, enhancing the overall security posture of the simulated environment.
 
 
-### <ins>Project 2:<ins>
+### <ins>Project 2:Network Traffic Analysis with Wireshark<ins>
 >
 >[Project 2](./Project2.html)
 >
+>This project involved using Wireshark to monitor and dissect network traffic, aiming to uncover and address performance and security issues. I began by setting up Wireshark and capturing live traffic data. Through applying various filters and analyzing packet details, you identified key issues and patterns. Your project concluded with a well-documented report and recommendations.
 
 <!--### <ins>Project 3:<ins>
 >
