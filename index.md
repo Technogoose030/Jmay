@@ -33,9 +33,9 @@ Hi im Jason a tech enthusiast with a deep passion for understanding and enhancin
 >[Project 2](./Project2.html)
 >
 
-### <ins>Project 3:<ins>
+<!--### <ins>Project 3:<ins>
 >
->[Project 3](./Project3.html)
+>[Project 3](./Project3.html) FOR FUTURE PROJECTS NOT CTF -->
 
 
 
