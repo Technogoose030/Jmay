@@ -2,9 +2,14 @@
 layout: default
 ---
 
-# YOU HAVE REACHED THE END OF THE CTF YOUR AWESOME 
+# YOU HAVE REACHED THE END OF THE CTF YOU ARE AWESOME 
 ## Halo 3 Never Forget <a href="https://www.youtube.com/watch?v=JX5O3n9K_d0">Song</a>
 ### If you want the code for hiding your own text in files using stegonography then use this script with proper dependancies , This is a combined script so it encodes and decodes, never save your passwords in plaintext again instead encrypt it or better yet hide it in an image file 
+<img src="docs/assets/42-1183456338.png" style="display: block; margin: auto;" />
+
+
+
+
 ```
 from PIL import Image
 from bitarray import bitarray
