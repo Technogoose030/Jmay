@@ -2,7 +2,7 @@
 layout: default
 ---
 https://Technogoose030.github.io/Technogoose.github.io/docs/assets/output_image.png
-
+<img src="docs/assets/output_image.png" style="display: block; margin: auto;" />
 
 <!--This is a decoder script for the file-->
 <!-- make sure you have the right dependancies and privilidges 
