@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-https://Technogoose030.github.io/Technogoose.github.io/docs/assets/output_image.png
+
 <img src="docs/assets/output_image.png" style="display: block; margin: auto;" />
 
 <!--This is a decoder script for the file-->
 <!-- make sure you have the right dependancies and privilidges 
+make sure you have python3 installed 
 python3 -m pip install pillow bitarray
-then after save the script below make sure to chmod and run the script with output_image.png in the same directory if the image cannot be found here go to my github docs/assets/output_image.png and download  -->
+make a text file copy the code then after save the script below make sure to chmod and run the script with output_image.png in the same directory if the image cannot be found here go to my github docs/assets/output_image.png and download  -->
 
 <!--
 from PIL import Image
