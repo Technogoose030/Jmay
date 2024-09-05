@@ -29,10 +29,7 @@ Hi im Jason a tech enthusiast with a deep passion for understanding and enhancin
 >
 >This project involved using Wireshark to monitor and dissect network traffic, aiming to uncover and address performance and security issues. I began by setting up Wireshark and capturing live traffic data. Through applying various filters and analyzing packet details, you identified key issues and patterns.
 
-<!--### <ins>Project 3:<ins>
->
->[Project 3](./Project3.html) FOR FUTURE PROJECTS NOT CTF -->
-
+<!--### <ins>Project 3:<ins> -->
 
 
 >
