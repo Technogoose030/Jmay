@@ -31,7 +31,7 @@ Set up multiple virtual machines (VMs) to simulate various network roles, includ
 
 ## <ins>Active Directory (AD):<ins>
 
-Installed and configured Windows Server with Active Directory Domain Services (AD DS) on a dedicated VM.
+Installed and configured Windows Server with Active Directory Domain Services (AD DS) on Windows Server 2022 .
 
 Created a domain (e.g., marvel.local) and configured organizational units (OUs), user accounts, and group policies to replicate a typical corporate setup.
 
@@ -45,9 +45,9 @@ Configured the web application to interact with Active Directory for authenticat
 
 ## <ins>Installation and Setup:<ins>
 
-Installed Burp Suite on a local machine.
+Installed Burp Suite on a kali linux machine.
 
-Configured Burp Suite to intercept traffic by setting up a local proxy server using foxyproxy, typically running on port 8080.
+Configured Burp Suite to intercept traffic by setting up a local proxy server using foxyproxy(for easy toggling), typically running on port 8080.
 
 ## <ins>Browser Configuration:<ins>
 
@@ -65,9 +65,7 @@ Configured spidering settings to follow all links, submit forms, and handle sess
 
 ## <ins>Automated Scanning:<ins>
 
-Tenable Nessus Web App Scanner to detect common web application vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and insecure direct object references.
-
-Analyzed scan results for severity levels and potential impacts on security.
+Tenable Nessus Web App Scanner to detect common web application vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and insecure direct object references.Analyzed scan results for severity levels and potential impacts on security.
 
 ## <ins>Manual Testing:<ins>
 
