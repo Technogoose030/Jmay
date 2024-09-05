@@ -3,4 +3,5 @@ description: Some of the projects I have done and a fun CTF
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-github:is_project_page: false
+github:
+is_project_page: false
