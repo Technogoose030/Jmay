@@ -21,7 +21,7 @@ Click on the Start button (the shark fin icon) next to the selected network inte
 
 Next is to start monitoring traffic to look for common weak ports using these filters 
 
-### tcp.port == 21 for FTP traffic
+ ### <ins> tcp.port == 21 for FTP traffic <ins>
 FTP (Port 21): FTP File Transfer Protocol Description: Used for file transfers. FTP transmits data in plaintext, including usernames and passwords.
 Yielded no results as no devices on the network was trasferring using ftp.
 
@@ -46,7 +46,7 @@ Start the FTP Server: After configuration, ensure the FTP server is running by s
 Then open Wireshark and filter port 21 then start doing as many ftp request as you can to see what can be captured such as logging in, listing directories, uploading or downloading files.
 When you go to analyze the packets everything will be in plain text. 
 
-### tcp.port == 80 for HTTP traffic
+### <ins> tcp.port == 80 for HTTP traffic <ins>
 
 Yielded no results as nothing on the network was using http so I simulated it.
 
@@ -64,7 +64,7 @@ From this i cancelled the wireshark scan to analyze the packets.
 
 Doing this shows how to find the GET request for port 80. If you are to look deeper you would find all of the files in the directory that I hosted in plain text the same would not have happened if it was being hosted with the encrypted version of http which is https.
 
-### tcp.port == 3389 for RDP traffic
+### <ins> tcp.port == 3389 for RDP traffic <ins>
 Next I had to simulate this aswell to see how it shows up in wireshark.So I opened up my virtual home lab and on my server changed firewall settings and active directory to allow RDP. So then I had to run wireshark itself to record network traffic in the VLAN using promiscuous mode. While it was running I connected my 2 virtual machines with RDP and started opening/closing files and web pages.So thats when I ran into a problem....
 
 <img src="docs/assets/Encrypted.png" style="width: 30vw; min-width: 330px;" />
@@ -81,7 +81,7 @@ Now the RDP capture now shows accurately what it was scanning for and unencrypte
 
 
 
-# Security Considerations
+# <ins> Security Considerations <ins>
 
 Monitor for Sensitive Information: Unencrypted traffic can reveal sensitive information such as login credentials, personal data, and confidential communications. Be cautious when handling this data.
 Use Encryption Where Possible: For secure communications, consider using encrypted protocols like HTTPS (port 443), FTPS (port 990), SSH (port 22), and SMTPS (port 465).
