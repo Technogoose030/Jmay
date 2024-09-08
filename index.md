@@ -6,7 +6,7 @@ layout: default
 
 ## <ins>Goals<ins>
 
-My goal is to become a cybersecurity or network professional to safeguard and optimize the digital infrastructure that drives our modern world. I am passionate about understanding the complexities of network systems and the evolving landscape of cyber threats. By pursuing this career path, I aim to leverage my skills to design and implement robust security measures that protect sensitive information from malicious attacks. I am committed to continuous learning and staying ahead of technological advancements to ensure that I can effectively address emerging challenges in the field. Ultimately, I aspire to contribute to a safer, more resilient digital environment, where individuals and organizations can confidently operate without fear of cyber threats.
+My ambition is to become a cybersecurity or network professional dedicated to protecting and enhancing the digital infrastructure that powers our modern world. I am driven by a deep interest in the complexities of network systems and the ever-evolving nature of cyber threats. By pursuing this career, I intend to apply my expertise to develop and implement robust security measures that safeguard sensitive information from malicious attacks. Committed to ongoing learning and staying abreast of technological advancements, I aim to effectively tackle emerging challenges in the field. Ultimately, I strive to foster a safer and more resilient digital environment, allowing individuals and organizations to operate with confidence and security.
 
 ## <ins>Who am I<ins> 
 
