@@ -12,7 +12,7 @@ Executed a detailed vulnerability assessment on a home lab environment configure
 
 There are free trials or access at these links 
 
-Burpsuite community edition(cant web app scan with the free version unfortunately)
+Burpsuite community edition(can't web app scan with the free version unfortunately)
 
 https://portswigger.net/burp/releases/professional-community-2024-6-6?requestededition=community&requestedplatform=
 
@@ -31,7 +31,7 @@ Set up multiple virtual machines (VMs) to simulate various network roles, includ
 
 ## <ins>Active Directory (AD):<ins>
 
-Installed and configured Windows Server with Active Directory Domain Services (AD DS) on Windows Server 2022 .
+Installed and configured Windows Server with Active Directory Domain Services (AD DS) on Windows Server 2022.
 
 Created a domain (e.g., marvel.local) and configured organizational units (OUs), user accounts, and group policies to replicate a typical corporate setup.
 
@@ -79,11 +79,11 @@ Performed targeted attacks, such as injecting malicious payloads into form field
 
 ## Session Fixation:
 
-Captured session cookies using Burp Suite.Attempted to access the application with captured cookies to test if unauthorized access was possible.
+Captured session cookies using Burp Suite. Attempted to access the application with captured cookies to test if unauthorized access was possible.
 
 ## Session Expiry:
 
-Tested session timeout and logout functionality.Confirmed sessions expired after inactivity and were invalidated upon logout.
+Tested session timeout and logout functionality. Confirmed sessions expired after inactivity and were invalidated upon logout.
 
 ## Session Regeneration:
 
@@ -128,7 +128,7 @@ Evaluated the impact on Active Directory, such as unauthorized access or directo
 
 The vulnerability assessment successfully identified and remediated a critical XSS vulnerability and some session id problems like fixation, hijacking and session expiry within the home lab environment.
 
-Their was alot of vulnerabilities not listed that would still have to be looked at assessed and remediated  
+There was alot of vulnerabilities not listed that would still have to be looked at assessed and remediated  
 
 ## <ins>Remediation Recommendations:<ins>
 
