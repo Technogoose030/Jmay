@@ -12,7 +12,7 @@ My goal is to become a cybersecurity or network professional to safeguard and op
 
 Hi I'm Jason a tech enthusiast with a deep passion for understanding and enhancing technology. Whether it's disassembling devices to explore their inner workings or troubleshooting and fixing technical issues, I thrive on uncovering how things function and finding innovative solutions. With Network+ and Security+ certifications under my belt, I’m committed to advancing my expertise in the field and am actively pursuing additional certifications to stay at the forefront of technology. My dedication to continuous learning and hands-on problem-solving drives me to excel in cybersecurity and networking, where I aim to make a meaningful impact.
 
-# <ins>For CTF fun Check the source :P<ins>
+# <ins>For CTF fun Check the source <ins>
 <!-- Okay so here we go on each page there will be a word commented out find them and visit the sub domain -->
 
 ## <ins>Projects<ins>
