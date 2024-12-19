@@ -29,8 +29,10 @@ Hi I'm Jason a tech enthusiast with a deep passion for understanding and enhanci
 >
 >This project involved using Wireshark to monitor and dissect network traffic, aiming to uncover and address performance and security issues. I began by setting up Wireshark and capturing live traffic data. Through applying various filters and analyzing packet details, you identified key issues and patterns.
 
-
-
+### <ins>Project 3:Setting up a VPN With Azure<ins>
+>[Project 3](./Project3.html)
+>
+>This project shows in great detail and pictures how to set up your own free vpn using azure for the creation of the virtual devices and protonmail for the VPN services.
 >
 >>
 >>>
